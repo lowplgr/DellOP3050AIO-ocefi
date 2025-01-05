@@ -1,6 +1,16 @@
 # DELL OptiPlex 3050 All-In-One EFI (ONLY FOR SONOMA)
 
-[DOWNLOAD EFI](#where-i-can-download-efi)
+# Fast navigation
+- [Hardware](#hardware)
+- [Info](#info)
+- [Another info](#another-info)
+- [Working features list](#whats-working)
+- [Bugs list](#bugs)  [Why these bugs isnt fixable?](#why-these-bugs-isnt-fixable)
+- [DOWNLOAD EFI](#where-i-can-download-efi)
+
+# Another link
+- [EFI for macOS Ventura](https://github.com/lowplgr/DellOP3050AIO-ocefi)
+
 
 
 # ![2025-01-05 10 26 38 PM](https://github.com/user-attachments/assets/e20fa1c6-baa7-4f93-afbb-7ce0ed6fef84)
@@ -45,7 +55,7 @@
 > [!WARNING]
 > This isnt fixable.
 
-# Why bugs isnt fixable?
+# Why these bugs isnt fixable?
 - **Because, AppleALC dont supporting ALC3661, but you can use your bluetooth headphones, its working as well**
 
 # Where i can download EFI?
