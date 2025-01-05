@@ -33,7 +33,7 @@ This EFI is OCSimplify builded and self-builded (some kexts/config strings i get
 |        | Info |
 | ------ | ---- |
 | SMBIOS | iMac19,1 |
-| EFI supporing | Idk, i tested only Ventura on it |
+| EFI supporting | Idk, i tested only Ventura on it |
 
 
 
