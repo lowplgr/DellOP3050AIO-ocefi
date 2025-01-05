@@ -1,4 +1,4 @@
-# DellOP3050AIO-ocefi
+# DELL OptiPlex 3050 All-In-One OpenCore EFI
 OpenCore EFI for Dell OptiPlex 3050 All-In-One
 
 
@@ -21,6 +21,25 @@ This EFI is OCSimplify builded and self-builded (some kexts/config strings i get
 | Network (wired) | Realtek RTL8111HSD-CG Ethernet LAN 10/100/1000 |
 | Audio     | Realtek ALC3661 |
 | I/O Ports | 6 external USB ports: USB3.0 x4, USB2.0 x2 ; DisplayPort 1.2 ; VGA ; Audio Jack |
+
+
+# Info
+|         | Version |
+| ------- | ------- |
+| OpenCore | 1.0.3 maybe, idk |
+| macOS   | Ventura (13.5) (22G74) |
+
+# Another info
+|        | Info |
+| ------ | ---- |
+| SMBIOS | iMac19,1 |
+| EFI supporing | Idk, i tested only Ventura on it |
+
+
+
+
+
+
 
 
 
