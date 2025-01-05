@@ -1,4 +1,4 @@
-# DELL OptiPlex 3050 All-In-One OpenCore EFI
+# DELL OptiPlex 3050 All-In-One OpenCore EFI (ONLY FOR VENTURA)
 OpenCore EFI for Dell OptiPlex 3050 All-In-One
 
 
