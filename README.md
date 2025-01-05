@@ -4,6 +4,11 @@ OpenCore EFI for Dell OptiPlex 3050 All-In-One
 
 This EFI is OCSimplify builded and self-builded (some kexts/config strings i get from simplify build)
 
+[DOWNLOAD EFI](#where-i-can-download-efi)
+[EFI for macOS Sonoma](https://github.com/lowplgr/DellOP3050AIO-ocefi/blob/main/SonomaEFI.md)
+
+
+
 # 
 ![Screenshot 2025-01-05 at 1 55 48 PM](https://github.com/user-attachments/assets/d003cb9b-416a-46f5-b4af-f100edbc03bd)
 
@@ -56,6 +61,7 @@ This EFI is OCSimplify builded and self-builded (some kexts/config strings i get
 # Bugs
 - Sound
 - Brighness
+> [!WARNING]
 > THIS ISNT FIXABLE!
 
 # Why this bugs isnt fixable?
@@ -63,7 +69,7 @@ This EFI is OCSimplify builded and self-builded (some kexts/config strings i get
 - **Brighness will not work because iMacs dont have brighness changing feature, so you can use macOS only with max brighness**
 
 # Where i can download EFI?
-I cant upload EFI to GitHub releases or to commits, so ill upload to [Google Drive](https://drive.google.com/file/d/1Qm5sjW4J-ZBitujzjBC6MjAJiXDzXTsK/view?usp=share_link)
+[Google Drive](https://drive.google.com/file/d/1Qm5sjW4J-ZBitujzjBC6MjAJiXDzXTsK/view?usp=share_link)
 
 
 
