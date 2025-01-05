@@ -39,7 +39,7 @@ This EFI is OCSimplify builded and self-builded (some kexts/config strings i get
 # Info
 |         | Version |
 | ------- | ------- |
-| OpenCore | 1.0.3 maybe, idk |
+| OpenCore | 1.0.2 |
 | macOS   | Ventura (13.5) (22G74) |
 
 # Another info
