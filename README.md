@@ -4,8 +4,16 @@ OpenCore EFI for Dell OptiPlex 3050 All-In-One
 
 This EFI is OCSimplify builded and self-builded (some kexts/config strings i get from simplify build)
 
-[DOWNLOAD EFI](#where-i-can-download-efi)
-[EFI for macOS Sonoma](https://github.com/lowplgr/DellOP3050AIO-ocefi/blob/main/SonomaEFI.md)
+# Fast navigation
+- [Hardware](#hardware)
+- [Info](#info)
+- [Another info](#another-info)
+- [Working features list](#whats-working)
+- [Bugs list](#bugs)  [Why these bugs isnt fixable?](#why-these-bugs-isnt-fixable)
+- [DOWNLOAD EFI](#where-i-can-download-efi)
+
+# Another links
+- [EFI for macOS Sonoma](https://github.com/lowplgr/DellOP3050AIO-ocefi/blob/main/SonomaEFI.md)
 
 
 
@@ -64,7 +72,7 @@ This EFI is OCSimplify builded and self-builded (some kexts/config strings i get
 > [!WARNING]
 > THIS ISNT FIXABLE!
 
-# Why this bugs isnt fixable?
+# Why these bugs isnt fixable?
 - **Because, AppleALC dont supporting ALC3661, but you can use your bluetooth headphones, its working as well**
 - **Brighness will not work because iMacs dont have brighness changing feature, so you can use macOS only with max brighness**
 
