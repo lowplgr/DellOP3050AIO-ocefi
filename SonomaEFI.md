@@ -33,7 +33,7 @@
 # Info
 |         | Version |
 | ------- | ------- |
-| OpenCore | 1.0.3 maybe, idk |
+| OpenCore | 1.0.2 |
 | macOS   | Sonoma 14.2 (23C64) |
 
 # Another info
