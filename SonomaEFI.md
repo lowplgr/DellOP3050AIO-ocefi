@@ -1,6 +1,6 @@
 # DELL OptiPlex 3050 All-In-One EFI (ONLY FOR SONOMA)
 
-[DOWNLOAD EFI](#where-i-can-download-efi?)
+[DOWNLOAD EFI](#where-i-can-download-efi)
 
 
 # ![2025-01-05 10 26 38 PM](https://github.com/user-attachments/assets/e20fa1c6-baa7-4f93-afbb-7ce0ed6fef84)
